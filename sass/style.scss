@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  background: #777777;
+
+  .container {
+      margin: auto;
+      max-width: 1200px;
+    #joke {
+      width: 300px;
+      padding: 20px;
+      margin: auto;
+      background: #e3e3e3;
+      border-radius: 30px;
+      font-family: sans-serif;
+    }
+
+    #get-joke  {
+        display: block;
+        width: 200px;
+        border: none;
+        margin: 0 auto;
+        padding: 10px;
+        margin: 20px auto;
+        background: #979797;
+        border-radius: 20px;
+    }
+  }
+}
